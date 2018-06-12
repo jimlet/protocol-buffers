@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "google-protobuf": "^3.4.0",
+    "google-protobuf": "^3.5.0",
     "hapi": "^17.5.1",
-    "nes": "^6.4.3",
-    "ws": "^3.1.0"
+    "nes": "^6.5.2",
+    "ws": "^3.3.3"
   }
 }
